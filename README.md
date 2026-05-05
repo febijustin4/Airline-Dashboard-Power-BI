@@ -101,15 +101,15 @@ Evaluated overall operational efficiency
 
 ### Flight Dashboard
 
-<img width="1263" height="708" alt="Screenshot 2026-05-04 151902" src="https://github.com/user-attachments/assets/a20c6179-0a7a-451b-bb30-9e6c4aa0334a" />
+<img width="1263" height="708" alt="Flight" src="https://github.com/user-attachments/assets/08e63f4d-c0ec-4b33-8f53-c8edd58ccdb2" />
 
 ### Airline Dashboard
 
-<img width="1257" height="708" alt="Screenshot 2026-05-04 151922" src="https://github.com/user-attachments/assets/f7886c70-6a09-47ff-a822-e45a708aab32" />
+<img width="1257" height="708" alt="Airline" src="https://github.com/user-attachments/assets/a65313f5-3eda-461a-b510-57cce9c9fdb0" />
 
 ### Airport Dashboard
 
-<img width="1263" height="679" alt="Screenshot 2026-05-04 151940" src="https://github.com/user-attachments/assets/59e776dc-872f-472a-9927-12561e56080f" />
+<img width="1263" height="679" alt="Airport" src="https://github.com/user-attachments/assets/727d9720-f6a9-4b82-a96b-3b264deaddf0" />
 
 
 
